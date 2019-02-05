@@ -1,6 +1,7 @@
 from mouse import *
-from Keyboard import *
 from screenshot import *
+import time
 
-move(987, 485)
-showXY()
+print('Waiting for the queue shows up...')
+
+start()
