@@ -14,6 +14,7 @@ A software that auto accepts the League of Legends queue when the button "accept
 - [ ] key blinds to activate/desactivate the auto accept
 - [ ] an menu list to the user chooses the monitor resolution, based on that we know where the mouse should click
 - [ ] a input to enter 5 champions names, after accepting the game the software should ban those
+- [ ] find a way to find the button with no needing of be looking at the client
 
 # PIP Install
 
