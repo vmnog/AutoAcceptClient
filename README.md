@@ -3,6 +3,7 @@
 A software that auto accepts the queue when he button "accept" shows up.
 
 # DONE
+- [x] Finish my changes
 
 <ul>
   [ x ]find out how to move the mouse to a specific position
