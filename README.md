@@ -10,3 +10,10 @@ A software that auto accepts the queue when he button "accept" shows up.
   <li>notice when the client is already in select champion screen</li>
   <li>key blinds to activate/desactivate the auto accept</li>
 </ul>
+
+# PIP Install
+
+<ul>
+  <li>pip install pyautogui</li>
+  <li>pip install keyboard</li>
+</ul>
