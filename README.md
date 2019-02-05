@@ -9,11 +9,11 @@ A software that auto accepts the League of Legends queue when the button "accept
 
 # TODO
 
-- [] take a screenshot and recognize when it finds a match
-- [] otice when the client is already in select champion screen
-- [] key blinds to activate/desactivate the auto accept
-- [] an menu list to the user chooses the monitor resolution, based on that we know where the mouse should click
-- [] a input to enter 5 champions names, after accepting the game the software should ban those
+- [ ] take a screenshot and recognize when it finds a match
+- [ ] otice when the client is already in select champion screen
+- [ ] key blinds to activate/desactivate the auto accept
+- [ ] an menu list to the user chooses the monitor resolution, based on that we know where the mouse should click
+- [ ] a input to enter 5 champions names, after accepting the game the software should ban those
 
 # PIP Install
 
