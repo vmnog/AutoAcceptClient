@@ -6,6 +6,7 @@ A software that auto accepts the queue when he button "accept" shows up.
 
 <ul>
   [ x ]find out how to move the mouse to a specific position
+  - [x] Finish my changes
   [x]uses AI to make a comparison between the button and the actual screen</li>
   [x]gets the button positioning ideally of the resolution size</li>
 </ul>
