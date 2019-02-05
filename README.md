@@ -17,5 +17,5 @@ A software that auto accepts the queue when he button "accept" shows up.
 
 <ul>
   <li>pip install pyautogui</li>
-  <li>pip install win32gui</li>
+  <li>pip install pypiwin32</li>
 </ul>
