@@ -2,6 +2,9 @@
 
 A software that auto accepts the League of Legends queue when the button "accept" shows up.
 
+# YOUTUBE VIDEO DEMONSTRATION
+- https://youtu.be/pZwvg7rBcVI
+
 # DONE
 - [x] find out how to move the mouse to a specific position
 - [x] uses AI to make a comparison between the button and the actual screen
