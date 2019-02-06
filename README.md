@@ -5,6 +5,15 @@ A software that auto accepts the League of Legends queue when the button "accept
 # YOUTUBE VIDEO DEMONSTRATION
 - https://youtu.be/pZwvg7rBcVI
 
+# HOW TO INSTALL
+- Download the zip
+- Unzip it
+- Create a shortcut of the main.pyw
+- Edit shortcut properties and change the icon to the /images/icon.ico
+- Also change the Title of the shortcut to AutoAccept
+- Notice that the program will be closed when it first finds a match
+
+
 # DONE
 - [x] find out how to move the mouse to a specific position
 - [x] uses AI to make a comparison between the button and the actual screen
