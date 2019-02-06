@@ -6,10 +6,10 @@ A software that auto accepts the League of Legends queue when the button "accept
 - [x] find out how to move the mouse to a specific position
 - [x] uses AI to make a comparison between the button and the actual screen
 - [x] gets the button positioning ideally of the resolution size
+- [x] take a screenshot every 1sec and compare to the button image
+- [x] recognize when it finds a match
 
 # TODO
-- [ ] take a screenshot every 100ms and compare to the button image
-- [ ] recognize when it finds a match
 - [ ] notice when the client is already in select champion screen
 - [ ] key blinds to activate/desactivate the auto accept
 - [ ] a input to enter 5 champions names, after accepting the game the software should ban those (probrably just an idea)
