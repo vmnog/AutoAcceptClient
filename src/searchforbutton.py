@@ -1,8 +1,11 @@
+# Execute this function to know what the computer found when searching for the template(line 10)
+# Most useful for debug stuff
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread('../images/buttonshowsup.png',0)
+img = cv2.imread('../images/Screenshot.png',0)
 img2 = img.copy()
 template = cv2.imread('../images/button.png',0)
 w, h = template.shape[::-1]
