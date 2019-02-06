@@ -8,6 +8,6 @@ def takeScreenshot():
 	# Save the image
 	pic.save('../images/Screenshot.png') 
 
-	print('Screenshot taked! Analyzing ...')
+	#print('Screenshot taked! Analyzing ...')
 
 
