@@ -11,6 +11,8 @@ A software that auto accepts the League of Legends queue when the button "accept
 - [x] gets the button positioning ideally of the resolution size
 - [x] take a screenshot every 1sec and compare to the button image
 - [x] recognize when it finds a match
+- [x] make it executable
+- [x] show a notification when it start looking for queue
 
 # TODO
 - [ ] notice when the client is already in select champion screen
