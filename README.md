@@ -40,4 +40,4 @@ A software that auto accepts the League of Legends queue when the button "accept
 - pip install numpy
 - pip3 install opencv-python
 - pip3 install matplotlib
-- pip install win10toast
+- pip install plyr
