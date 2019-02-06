@@ -23,11 +23,9 @@ A software that auto accepts the League of Legends queue when the button "accept
 - [ ] an menu list to the user chooses the monitor resolution, based on that we know where the mouse should click
 
 # PIP Install
-
-<ul>
-  <li>pip install pyautogui</li>
-  <li>pip install pypiwin32</li>
-  <li>pip install numpy</li>
-  <li>pip3 install opencv-python</li>
-  <li>pip3 install matplotlib</li>
-</ul>
+- pip install pyautogui
+- pip install pypiwin32<
+- pip install numpy
+- pip3 install opencv-python
+- pip3 install matplotlib
+- pip install win10toast
