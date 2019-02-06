@@ -3,7 +3,8 @@
 A software that auto accepts the League of Legends queue when the button "accept" shows up.
 
 # YOUTUBE VIDEO DEMONSTRATION
-- https://youtu.be/pZwvg7rBcVI
+- 0.0.1 : https://youtu.be/pZwvg7rBcVI
+- 0.0.2 : https://youtu.be/D3fWNxBScxk
 
 # HOW TO INSTALL
 - Download the zip
