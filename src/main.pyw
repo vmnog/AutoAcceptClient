@@ -18,7 +18,7 @@ def click():
 	#print('The button was clicked!')
 	notification.notify(
     	title='AutoAcceptQueue',
-   	 	message='The Queue was accept, so we are closing the AutoAcceptQueue. \nPlease open the software again',
+   	 	message='The Queue was accept.',
     	app_name='AutoAccept',
     	app_icon='../images/icon.ico'
 	)
@@ -45,7 +45,7 @@ def start():
 
 notification.notify(
     title='AutoAcceptQueue',
-    message='Dont worry I will accept this for you',
+    message='Running, waiting for the queue ',
     app_name='AutoAccept',
     app_icon='../images/icon.ico'
 )
