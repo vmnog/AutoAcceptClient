@@ -3,7 +3,7 @@
 A software that auto accepts the League of Legends queue when the button "accept" shows up.
 
 # YOUTUBE VIDEO DEMONSTRATION
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pZwvg7rBcVI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- https://youtu.be/pZwvg7rBcVI
 
 # DONE
 - [x] find out how to move the mouse to a specific position
