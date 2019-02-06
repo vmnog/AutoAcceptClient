@@ -6,7 +6,7 @@ A software that auto accepts the League of Legends queue when the button "accept
 - [x] find out how to move the mouse to a specific position
 - [x] uses AI to make a comparison between the button and the actual screen
 - [x] gets the button positioning ideally of the resolution size
-- [x] take a screenshot every 100ms and compare to the button image
+- [x] take a screenshot every 1sec and compare to the button image
 
 # TODO
 - [ ] recognize when it finds a match
