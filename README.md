@@ -6,7 +6,7 @@ A software that auto accepts the League of Legends queue when the button "accept
 - https://youtu.be/pZwvg7rBcVI
 
 # HOW TO INSTALL
-- Download the zip
+- Download the zip: https://github.com/vmnog/AutoClientAccept.git
 - Unzip it
 - Create a shortcut of the main.pyw
 - Edit shortcut properties and change the icon to the /images/icon.ico
