@@ -2,6 +2,7 @@ import pyautogui, sys
 import time
 from getbuttonlocation import *
 from screenshot import takeScreenshot
+from plyer import notification
 
 # move the mouse to a specifc location
 def move(x, y):
@@ -15,10 +16,17 @@ def move(x, y):
 def click():
 	pyautogui.click()
 	#print('The button was clicked!')
+	notification.notify(
+    	title='AutoAcceptQueue',
+   	 	message='The Queue was accept, so we are closing the AutoAcceptQueue. \nPlease open the software again',
+    	app_name='AutoAccept',
+    	app_icon='../images/icon.ico'
+	)
 	exit()
 
 
 def start():
+
 
 	# take screenshot
 	takeScreenshot()
@@ -35,6 +43,12 @@ def start():
 		move(x, y)
 
 
+notification.notify(
+    title='AutoAcceptQueue',
+    message='Dont worry I will accept this for you',
+    app_name='AutoAccept',
+    app_icon='../images/icon.ico'
+)
 
 print('\nWaiting for the queue shows up...')
 i = 0
