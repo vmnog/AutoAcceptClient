@@ -36,7 +36,7 @@ A software that auto accepts the League of Legends queue when the button "accept
 
 # PIP Install
 - pip install pyautogui
-- pip install pypiwin32<
+- pip install pypiwin32
 - pip install numpy
 - pip3 install opencv-python
 - pip3 install matplotlib
