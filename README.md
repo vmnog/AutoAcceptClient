@@ -9,10 +9,16 @@ A software that auto accepts the League of Legends queue when the button "accept
 # HOW TO INSTALL
 - Download the zip
 - Unzip it
+- Install Python https://www.python.org/downloads/
+- Copy the directory of the folder you unziped (REMEMBER TO GO INSIDE THE SRC FOLDER)
+    Something like this "(C:\Users\VMNogueira\Desktop\AutoAcceptClient-master\src)"
+- Open Command Prompt 
+- type <code>cd folder-directory</code>
+- type <code>pip install pyautogui</code>
+    
 - Create a shortcut of the main.pyw
 - Edit shortcut properties and change the icon to the /images/icon.ico
 - Also change the Title of the shortcut to AutoAccept
-- Notice that the program will be closed when it first finds a match
 
 
 # DONE
