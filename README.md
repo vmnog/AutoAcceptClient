@@ -10,13 +10,13 @@ A software that auto accepts the League of Legends queue when the button "accept
 - Download the zip
 - Unzip it
 - Install Python https://www.python.org/downloads/
-- Copy the directory of the folder you unziped
-    (REMEMBER TO GO INSIDE THE <strong>SRC</strong> FOLDER)
+- <strong>Copy</strong> the directory of the folder you unziped
+    (REMEMBER TO GO INSIDE THE SRC FOLDER)
     Something like this:<br>
-    "(C:\Users\VMNogueira\Desktop\AutoAcceptClient-master\src)"
+    "(C:\Users\User\Desktop\AutoAcceptClient-master\src)"
 - Open Command Prompt 
+- <code>cd (paste here the directory that you copied before)</code>
 - type:
-- <code>cd folder-directory</code>
 - <code>pip install pyautogui</code>
 - <code>pip install pyautogui</code>
 - <code>pip install pypiwin32</code>
