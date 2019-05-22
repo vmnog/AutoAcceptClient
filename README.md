@@ -41,8 +41,11 @@ If its working you can do the shortcut:
 - Edit shortcut properties and change the icon to the /images/icon.ico
 - Also change the Title of the shortcut to AutoAccept
 
-
-### DONE
+### TODO
+- [ ] notice when the client is already in select champion screen
+- [ ] key blinds to activate/desactivate the auto accept
+- [ ] a input to enter 5 champions names, after accepting the game the software should ban those (probably just an idea)
+- [ ] after all that stuffs working create a UI with electron JS
 - [x] find out how to move the mouse to a specific position
 - [x] uses AI to make a comparison between the button and the actual screen
 - [x] gets the button positioning ideally of the resolution size
@@ -52,14 +55,7 @@ If its working you can do the shortcut:
 - [x] show a notification when it start looking for queue
 - [x] find a way to find the button with no needing of be looking at the client
 
-### TODO
-- [ ] notice when the client is already in select champion screen
-- [ ] key blinds to activate/desactivate the auto accept
-- [ ] a input to enter 5 champions names, after accepting the game the software should ban those (probably just an idea)
-- [ ] after all that stuffs working create a UI with electron JS
 
-### WONTDO
-- [ ] an menu list to the user chooses the monitor resolution, based on that we know where the mouse should click
 
 ### PIP Install
 - pip install pyautogui
