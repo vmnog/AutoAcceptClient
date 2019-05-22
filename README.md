@@ -2,7 +2,7 @@
 
 A software that auto accepts the League of Legends queue when the button "accept" shows up.
 
-## HOW IT WORKS?
+### HOW IT WORKS?
 When you run the program it will display a windows notifications that tells you that it is waiting for the queue shows up.
 It takes a screenshot of your display every 1 sec, and it analyses the screenshot and use a algorithm to compare the button.png 
 
@@ -18,11 +18,11 @@ on the '/img'. Use the Spinning Tool from windows and use this to select just th
 to substitute the original image with the same name).
 
 
-# YOUTUBE VIDEO DEMONSTRATION
+### YOUTUBE VIDEO DEMONSTRATION
 - 0.0.1 : https://youtu.be/pZwvg7rBcVI
 - 0.0.2 : https://youtu.be/D3fWNxBScxk
 
-# HOW TO INSTALL
+### HOW TO INSTALL
 - Download the zip
 - Unzip it
 - Install Python https://www.python.org/downloads/
@@ -50,7 +50,7 @@ If its working you can do the shortcut:
 - Also change the Title of the shortcut to AutoAccept
 
 
-# DONE
+### DONE
 - [x] find out how to move the mouse to a specific position
 - [x] uses AI to make a comparison between the button and the actual screen
 - [x] gets the button positioning ideally of the resolution size
@@ -58,18 +58,18 @@ If its working you can do the shortcut:
 - [x] recognize when it finds a match
 - [x] make it executable
 - [x] show a notification when it start looking for queue
+- [x] find a way to find the button with no needing of be looking at the client
 
-# TODO
+### TODO
 - [ ] notice when the client is already in select champion screen
 - [ ] key blinds to activate/desactivate the auto accept
-- [ ] a input to enter 5 champions names, after accepting the game the software should ban those (probrably just an idea)
-- [ ] find a way to find the button with no needing of be looking at the client
+- [ ] a input to enter 5 champions names, after accepting the game the software should ban those (probably just an idea)
 - [ ] after all that stuffs working create a UI with electron JS
 
-# WONTDO
+### WONTDO
 - [ ] an menu list to the user chooses the monitor resolution, based on that we know where the mouse should click
 
-# PIP Install
+### PIP Install
 - pip install pyautogui
 - pip install pypiwin32
 - pip install numpy
