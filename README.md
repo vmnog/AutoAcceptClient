@@ -23,23 +23,23 @@ on the '/img'. Use the Spinning Tool from windows and use this to select just th
     <br>
     "(C:\Users\User\Desktop\AutoAcceptClient-master\src)"
 - Open Command Prompt 
-- <code>cd (paste here the directory that you copied before)</code>
+ <code>cd (paste here the directory that you copied before)</code>
 - type and press enter for each of this items:
-- <code>pip install pyautogui</code>
-- <code>pip install pypiwin32</code>
-- <code>pip install numpy</code>
-- <code>pip3 install opencv-python</code>
-- <code>pip3 install matplotlib</code>
-- <code>pip install plyer</code>
+ <code>pip install pyautogui</code>
+ <code>pip install pypiwin32</code>
+ <code>pip install numpy</code>
+ <code>pip3 install opencv-python</code>
+ <code>pip3 install matplotlib</code>
+ <code>pip install plyer</code>
 
-After installing all the requirements, do :
-- <code>python main.pyw</code>
-Or try Executing the main.pyw by double clicking in it.
+- After installing all the requirements, do :
+ <code>python main.pyw</code>
+ Or try Executing the main.pyw by double clicking in it.
 
-If its working you can do the shortcut:
-- Create a shortcut of the main.pyw
-- Edit shortcut properties and change the icon to the /images/icon.ico
-- Also change the Title of the shortcut to AutoAccept
+- If its working you can do the shortcut:
+ Create a shortcut of the main.pyw
+ Edit shortcut properties and change the icon to the /images/icon.ico
+ Also change the Title of the shortcut to AutoAccept
 
 ### TODO
 - [ ] notice when the client is already in select champion screen
