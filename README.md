@@ -2,7 +2,7 @@
 
 A software that auto accepts the League of Legends queue when the button "accept" shows up.
 
-# HOW IT WORKS?
+## HOW IT WORKS?
 When you run the program it will display a windows notifications that tells you that it is waiting for the queue shows up.
 It takes a screenshot of your display every 1 sec, and it analyses the screenshot and use a algorithm to compare the button.png 
 
@@ -10,7 +10,7 @@ picture with the screenshot taked. If the algorithm returns an value of compabil
 
 location on the screen and move the mouse to this position and than finally click on it, accepting the queue.
 
-# NOTES
+### NOTES
 It works fine for everyone that follows the 'how to install' guide and also you need to substitute the 'button.png' file that is 
 
 on the '/img'. Use the Spinning Tool from windows and use this to select just the word "ACCEPT" of the game's button (dont forget 
